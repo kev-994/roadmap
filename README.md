@@ -1,6 +1,4 @@
-# FPGA Roadmap
 
-Summer 2026 FPGA and low-level systems engineering roadmap.
 
 ## Goals
 
